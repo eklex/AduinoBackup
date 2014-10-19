@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For DigitalState
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+DigitalState	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+enable	KEYWORD2
+power	KEYWORD2
+getPin	KEYWORD2
+read	KEYWORD2
+set	KEYWORD2
+reset	KEYWORD2
+DigitalState	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################

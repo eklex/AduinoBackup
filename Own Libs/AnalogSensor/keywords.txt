@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For AnalogSensor
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+AnalogSensor	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+enable	KEYWORD2
+power	KEYWORD2
+getPin	KEYWORD2
+read	KEYWORD2
+AnalogSensor	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+value	KEYWORD2
+scale	KEYWORD2
+flag	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+

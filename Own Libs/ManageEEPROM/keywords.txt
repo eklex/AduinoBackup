@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map for ManageEEPROM
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ManageEEPROM	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+saveIndex	KEYWORD2
+restoreIndex	KEYWORD2
+saveData	KEYWORD2		
+getData	KEYWORD2
+print	KEYWORD2
+printByNo	KEYWORD2
+printDebug	KEYWORD2
+reset	KEYWORD2
+number	KEYWORD2
+capacity	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+
